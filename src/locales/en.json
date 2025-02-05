@@ -1,0 +1,92 @@
+{
+    "register": {
+      "title": "Register",
+      "name": "Full Name",
+      "email": "Email",
+      "username": "Username",
+      "password": "Password",
+      "submit": "Register",
+      "error": "An error occurred. Please try again."
+    },
+    "login": {
+        "title": "Login",
+        "username": "Username",
+        "usernamePlaceholder": "Enter username",
+        "password": "Password",
+        "passwordPlaceholder": "Enter password",
+        "submit": "Login",
+        "error": "Both username and password are required",
+        "invalid": "Invalid login response",
+        "failed": "Login failed. Please try again.",
+        "noAccount": "Don't have an account?",
+        "register": "Register Here"
+    },
+    "cart": {
+        "title": "Shopping Cart",
+        "empty": "Your Cart is Empty",
+        "goHome": "Go to Home",
+        "quantity": "Quantity",
+        "price": "Price",
+        "totalItems": "Total Items",
+        "totalPrice": "Total Price",
+        "checkout": "Checkout",
+        "returnHome": "Return to Home",
+        "orderHistory": "Order History",
+        "loading": "Loading your order history...",
+        "orderId": "Order ID",
+        "orderDate": "Date",
+        "total": "Total",
+        "viewOrder": "View Order",
+        "noOrders": "No order history available."
+    },
+    "productCatalog": {
+    "title": "Product Catalog",
+    "searchPlaceholder": "Search by title or price",
+    "sortBy": "Sort by...",
+    "sortPriceAsc": "Price (Low to High)",
+    "sortPriceDesc": "Price (High to Low)",
+    "sortNameAsc": "Name (A to Z)",
+    "sortNameDesc": "Name (Z to A)",
+    "price": "Price",
+    "addToCart": "Add to Cart",
+    "noProducts": "No products found",
+    "loading": "Loading..."
+    },
+    "deleteAccount": {
+        "title": "Delete Account",
+        "button": "Delete My Account",
+        "confirmTitle": "Confirm Account Deletion",
+        "confirmMessage": "Are you sure you want to delete your account? This action cannot be undone.",
+        "cancel": "Cancel",
+        "delete": "Delete Account",
+        "success": "Account deleted successfully!",
+        "deleteError": "Failed to delete account",
+        "noUser": "No user found to delete."
+    },
+    "orderDetails": {
+        "title": "Order Details",
+        "loading": "Loading Order Details...",
+        "error": "An error occurred while fetching order details.",
+        "notFound": "Order not found.",
+        "orderId": "Order ID",
+        "date": "Date",
+        "products": "Products",
+        "productId": "Product ID",
+        "quantity": "Quantity",
+        "backToCart": "Back to Cart"
+    },
+    "updateProfile": {
+        "title": "Update Profile",
+        "email": "Email",
+        "emailPlaceholder": "Enter your email",
+        "username": "Username",
+        "usernamePlaceholder": "Enter your username",
+        "password": "Password",
+        "passwordPlaceholder": "Enter a new password",
+        "submit": "Update Profile",
+        "success": "Profile updated successfully!",
+        "errorRequired": "All fields are required.",
+        "errorUpdate": "Update failed. Please try again."
+    }
+}
+  

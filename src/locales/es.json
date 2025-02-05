@@ -1,0 +1,92 @@
+{
+    "register": {
+      "title": "Registrarse",
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "username": "Nombre de Usuario",
+      "password": "Contraseña",
+      "submit": "Registrar",
+      "error": "Ocurrió un error. Inténtalo de nuevo."
+    },
+    "login": {
+        "title": "Iniciar sesión",
+        "username": "Nombre de usuario",
+        "usernamePlaceholder": "Ingrese su nombre de usuario",
+        "password": "Contraseña",
+        "passwordPlaceholder": "Ingrese su contraseña",
+        "submit": "Iniciar sesión",
+        "error": "Se requieren el nombre de usuario y la contraseña",
+        "invalid": "Respuesta de inicio de sesión inválida",
+        "failed": "Inicio de sesión fallido. Inténtalo de nuevo.",
+        "noAccount": "¿No tienes una cuenta?",
+        "register": "Regístrate aquí"
+    },
+    "cart": {
+        "title": "Carrito de Compras",
+        "empty": "Tu carrito está vacío",
+        "goHome": "Ir a la página principal",
+        "quantity": "Cantidad",
+        "price": "Precio",
+        "totalItems": "Total de artículos",
+        "totalPrice": "Precio total",
+        "checkout": "Finalizar compra",
+        "returnHome": "Regresar a Inicio",
+        "orderHistory": "Historial de pedidos",
+        "loading": "Cargando tu historial de pedidos...",
+        "orderId": "ID del Pedido",
+        "orderDate": "Fecha",
+        "total": "Total",
+        "viewOrder": "Ver Pedido",
+        "noOrders": "No hay historial de pedidos disponible."
+    },
+    "productCatalog": {
+        "title": "Catálogo de Productos",
+        "searchPlaceholder": "Buscar por título o precio",
+        "sortBy": "Ordenar por...",
+        "sortPriceAsc": "Precio (Menor a Mayor)",
+        "sortPriceDesc": "Precio (Mayor a Menor)",
+        "sortNameAsc": "Nombre (A a Z)",
+        "sortNameDesc": "Nombre (Z a A)",
+        "price": "Precio",
+        "addToCart": "Añadir al carrito",
+        "noProducts": "No se encontraron productos",
+        "loading": "Cargando..."
+    },
+    "deleteAccount": {
+        "title": "Eliminar cuenta",
+        "button": "Eliminar mi cuenta",
+        "confirmTitle": "Confirmar eliminación de cuenta",
+        "confirmMessage": "¿Estás seguro de que deseas eliminar tu cuenta? Esta acción no se puede deshacer.",
+        "cancel": "Cancelar",
+        "delete": "Eliminar cuenta",
+        "success": "¡Cuenta eliminada con éxito!",
+        "deleteError": "Error al eliminar la cuenta",
+        "noUser": "No se encontró usuario para eliminar."
+    },
+    "orderDetails": {
+        "title": "Detalles del Pedido",
+        "loading": "Cargando detalles del pedido...",
+        "error": "Ocurrió un error al obtener los detalles del pedido.",
+        "notFound": "Pedido no encontrado.",
+        "orderId": "ID del Pedido",
+        "date": "Fecha",
+        "products": "Productos",
+        "productId": "ID del Producto",
+        "quantity": "Cantidad",
+        "backToCart": "Volver al Carrito"
+    },
+    "updateProfile": {
+        "title": "Actualizar Perfil",
+        "email": "Correo Electrónico",
+        "emailPlaceholder": "Ingrese su correo electrónico",
+        "username": "Nombre de Usuario",
+        "usernamePlaceholder": "Ingrese su nombre de usuario",
+        "password": "Contraseña",
+        "passwordPlaceholder": "Ingrese una nueva contraseña",
+        "submit": "Actualizar Perfil",
+        "success": "¡Perfil actualizado con éxito!",
+        "errorRequired": "Todos los campos son obligatorios.",
+        "errorUpdate": "Error al actualizar. Inténtalo de nuevo."
+    }
+}
+  
